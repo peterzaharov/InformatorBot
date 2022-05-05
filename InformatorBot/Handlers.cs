@@ -14,7 +14,7 @@ namespace InformatorBot
 {
     public class Handlers
     {
-        private static string botName = "Информатор ОИАС";
+        private static string botName = "Информатор";
         private static string firstMessage = $"Вас приветствует чат-бот  {botName}. " +
                                              $"С моей помощью ИТ специалисты будут оперативно сообщать о важных событиях в используемых Вами системах.";
 
